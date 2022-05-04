@@ -1,3 +1,0 @@
-DATA_PATH: '../data'
-DATASETS: ['ECSSD', 'PASCAL-S', 'HKU-IS', 'DUTS', 'DUT-OMRON', 'SOD']
-SAVE_PATH: './results'
